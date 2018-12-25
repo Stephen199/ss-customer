@@ -9,12 +9,13 @@
         android:id="@+id/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="按钮" />
+        android:text="页面传值跳转" />
 
     <Button
         android:id="@+id/btn_map"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="地图" />
+        android:text="高德地图" />
+
 
 </LinearLayout>
