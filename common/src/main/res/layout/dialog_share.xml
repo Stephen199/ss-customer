@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/common_color_white"
+    android:padding="@dimen/padding_normal">
+
+    <TextView
+        android:id="@+id/tv_we_chat"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawablePadding="5dp"
+        android:drawableTop="@drawable/ic_we_chat_dialog"
+        android:gravity="center"
+        android:text="@string/we_chat"
+        android:textColor="@color/text_color_66"
+        android:textSize="@dimen/font_tiny" />
+
+    <TextView
+        android:id="@+id/tv_circle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawablePadding="5dp"
+        android:drawableTop="@drawable/ic_circle_dialog"
+        android:gravity="center"
+        android:text="@string/we_chat_circle"
+        android:textColor="@color/text_color_66"
+        android:textSize="@dimen/font_tiny" />
+</LinearLayout>

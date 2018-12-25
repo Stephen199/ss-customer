@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_color_white">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateDrawable="@drawable/progress" />
+
+    <LinearLayout
+        android:id="@+id/ll_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/dp_20"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_empty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img_empty" />
+
+        <TextView
+            android:id="@+id/tv_empty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/text_color_bb"
+            android:textSize="@dimen/font_normal"
+            tools:text="空空如也" />
+
+        <TextView
+            android:id="@+id/tv_reload"
+            android:layout_width="@dimen/dp_110"
+            android:layout_height="@dimen/dp_40"
+            android:layout_marginTop="27dp"
+            android:background="@drawable/shape_rect_grey"
+            android:gravity="center"
+            android:text="@string/net_reload"
+            android:textColor="@color/common_color_black"
+            android:textSize="@dimen/font_normal"
+            android:visibility="gone" />
+    </LinearLayout>
+</RelativeLayout>

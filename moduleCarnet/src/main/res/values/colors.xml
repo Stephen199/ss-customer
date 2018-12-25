@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="color_statue_bar">#1A1D23</color>
+    <color name="text_hint">#CCCCCC</color>
+    <color name="color_green">#00D3A9</color>
+    <color name="text_red">#FC3846</color>
+    <color name="author_list_divider">#4B4B4B</color>
+
+    <!--字体颜色-->
+    <color name="change_pwd_text_white1">#E5E5E5</color>
+    <color name="change_pwd_text_white2">#999999</color>
+    <color name="change_pwd_text_white3">#F5F5F5</color>
+    <color name="color_black56">#555556</color>
+    <color name="black99">#99000000</color>
+    <color name="continue_dialog">#707071</color>
+
+
+</resources>

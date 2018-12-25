@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="dp136">136dp</dimen>
+    <dimen name="dp296">296dp</dimen>
+    <dimen name="dp112">112dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="dp240">240dp</dimen>
+</resources>

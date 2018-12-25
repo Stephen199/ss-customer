@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 主背景色（黑色）-->
+    <color name="bg">#1A1D22</color>
+    <color name="black">#7B7B7B</color>
+
+    <color name="bg_bottom_tab">#f8f8f8</color>
+    <color name="bg_bottom_tab_divider">#bbbbc0</color>
+</resources>

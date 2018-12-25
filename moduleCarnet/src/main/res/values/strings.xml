@@ -1,0 +1,89 @@
+<resources>
+
+
+    <string name="appName">车控</string>
+    <string name="verify_code">验证码</string>
+    <string name="new_pwd">新密码</string>
+    <string name="confirm_pwd">确认密码</string>
+    <string name="verify_code_et_hint">请输入验证码</string>
+    <string name="et_input_pwd">请输入6位数字密码</string>
+    <string name="confirm_pwd_again">请再次确认密码</string>
+    <string name="get_verify_code">获取验证码</string>
+
+    <!--  activity  title-->
+
+    <string name="title_confirm_pwd">修改密码</string>
+    <string name="title_pwd_manager">安防密码管理</string>
+    <string name="title_change_pwd">修改安防密码</string>
+    <string name="title_set_pwd">设置安防密码</string>
+    <string name="title_car_author">车辆授权</string>
+    <string name="title_charge">预约充电</string>
+    <string name="title_car_examination">诊断</string>
+    <string name="title_security_pwd">输入安防密码</string>
+
+    <string name="title_car_location">车辆定位</string>
+    <string name="title_understand_zst">了解智生态</string>
+    <string name="title_history_path">轨迹查询</string>
+    <string name="title_detection_detail">诊断详情</string>
+    <string name="title_indicator_light">指示灯符</string>
+    <string name="title_car_change">控车切换</string>
+
+
+    <!--others-->
+
+    <string name="author_info">授权人信息</string>
+    <string name="author_start_time">授权开始时间:</string>
+    <string name="author_end_time">授权结束时间:</string>
+    <string name="author_input_phone">请输入手机号</string>
+    <string name="charge_time">距离充满还有</string>
+    <string name="stop_charge">停止充电</string>
+
+    <string name="dialog_info_owner">体验全新互联网车生活</string>
+
+    <string name="understand_zst">了解智生态</string>
+    <string name="text_not_owner">非车主</string>
+    <string name="text_tobe_owner">立即成为车主</string>
+
+    <!-- about activity -->
+
+    <!-- message notify activity -->
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="register">注册</string>
+    <string name="tips">提示</string>
+    <string name="tips_phone">请输入正确的手机号</string>
+    <string name="tips_reg_success">注册成功，立即跳转至登录页</string>
+    <string name="tips_know">我知道了</string>
+    <string name="save">保存</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="add_friend_already">已经是好友啦!</string>
+    <string name="operate_fail">操作失败,请重试!</string>
+    <string name="bt_next">下一步</string>
+    <string name="tips_id">请保持身份证照片无反光遮挡，所有信息清\n晰可见。</string>
+    <string name="bt_last">上一步</string>
+    <string name="tips_person">1、请持身份证人像面，仿照上图拍照； 2、身份证需与肩平行，无反光； 3、保证本人面部／身份证头像、身份证号清晰可见。</string>
+    <string name="tips_car_id">请拍摄驾驶证左侧信息，驾驶证信息清晰可辩人，无反光无遮挡。</string>
+    <string name="tips_car_id_back">请拍摄驾驶证副页信息，驾驶证信息清晰可辩人，无反光无遮挡。</string>
+    <string name="bt_commit">提交</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="del">删除</string>
+
+
+    <string name="chat_image_preview_load_err">图片加载失败</string>
+    <string name="mis_folder_all">All Images</string>
+    <string name="mis_preview">Preview</string>
+    <string name="mis_msg_no_camera">No system camera found</string>
+    <string name="mis_msg_amount_limit">Select images amount is limit</string>
+    <string name="mis_action_done">Done</string>
+    <string name="mis_action_button_string">%1$s(%2$d/%3$d)</string>
+    <string name="mis_photo_unit">Shot</string>
+    <string name="mis_tip_take_photo">Take photo</string>
+    <string name="mis_error_image_not_exist">Image error</string>
+    <string name="mis_error_no_permission">Has no permission</string>
+    <string name="mis_permission_dialog_title">Permission Deny</string>
+    <string name="mis_permission_dialog_ok">OK</string>
+    <string name="mis_permission_dialog_cancel">CANCEL</string>
+    <string name="mis_permission_rationale">Storage read permission is needed to pick files.</string>
+    <string name="mis_permission_rationale_write_storage">Storage write permission is needed to save the image.</string>
+    <string name="mis_permission_camera">camera permission is needed to save the image.</string>
+</resources>

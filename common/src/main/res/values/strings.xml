@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">common</string>
+    <string name="text_cancel">取消</string>
+    <string name="net_error">网络不可用，请检查</string>
+    <string name="net_timeout">网络超时</string>
+    <string name="empty_text">空空如也</string>
+    <string name="net_reload">点击重试</string>
+
+    <string name="we_chat">微信</string>
+    <string name="we_chat_circle">朋友圈</string>
+    <string name="share_succeed">分享成功</string>
+    <string name="share_cancel">分享取消</string>
+    <string name="share_failed">分享失败</string>
+    <string name="please_install_wechat">请先安装微信</string>
+
+
+    <string name="unable_connect_server">连接服务器失败</string>
+    <string name="un_know_error">未知错误</string>
+    <string name="please_go_login">您还未登录，请先去登录</string>
+    <string name="login_dated">登录信息已过期，请重新登录</string>
+    <string name="system_error">系统错误</string>
+
+
+    <string name="quick_view_load_end">我是有底线的</string>
+    <string name="load_failed">加载失败，请点我重试</string>
+    <string name="loading">正在加载中...</string>
+</resources>
